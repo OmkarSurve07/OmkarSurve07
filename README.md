@@ -8,5 +8,3 @@ I mostly work with Python 🐍, MVC Frameworks.
   - Connect with me on [Linkedin](https://www.linkedin.com/in/omkarsurve-4a855a207/)
   - Shoot Me an [Email](omkarsurve981@outlook.com)
 
-https://github-readme-stats.vercel.ap...  
-
