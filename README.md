@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Omkar, a software Engineer, passionate about Developing applications for Humans 🤣.
+I am Omkar, a software Engineer, passionate about Developing applications for Humans.
 
 I mostly work with Python 🐍 Django, MVC and MTV Frameworks. 
 
