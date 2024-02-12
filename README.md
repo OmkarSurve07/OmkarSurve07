@@ -11,7 +11,7 @@
 
 <div align="center">
 
-💬 Ask me about **Python, Django, FastAPI, pandas, postgres, mongodb... or anything [here](https://discord.gg/U5GMKXDq)**
+💬 Ask me about **Python, Django, FastAPI, pandas, postgres, mongodb... or anything [here]([https://discord.gg/U5GMKXDq](https://discord.gg/ahbWKVhH))**
 
  </div>
 <br/>
