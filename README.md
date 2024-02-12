@@ -24,6 +24,7 @@
     <img src="https://skillicons.dev/icons?i=git,docker,aws,selenium,anaconda,tensorflow" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,postman,github,sentry" /></div>
 
+
 <h3 align="center">Stats:</h3>
 <div >
  <img width=900 height=250 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=OmkarSurve07&count_private=true&theme=react&border_radius=10" alt="streak stats"/> <br/><br/>
