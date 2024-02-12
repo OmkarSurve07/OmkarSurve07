@@ -20,6 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
- <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,git,docker,aws,md,anaconda,django,mongodb,postgres,postman,py,selenium,sentry,tensorflow,fastapi,flask" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,firebase,nextjs,mysql,stackoverflow,rabbitmq" /><br>
+ <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,postgres,mongodb,react,nodejs,mui,html,css,md" />
+    <img src="https://skillicons.dev/icons?i=git,docker,aws,selenium,anaconda,tensorflow" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,postman,github,sentry" /><br>
 
