@@ -9,6 +9,12 @@
 
 <br/>
 
+<div align="center">
+
+💬 Ask me about **Python, Django, FastAPI, pandas, postgres, mongodb... or anything [here](https://discord.gg/U5GMKXDq)**
+
+ </div>
+<br/>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -18,14 +24,14 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-
+<br>
  <div align="center">
      <br/><img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,postgres,mongodb,react,nodejs,mui,html,css,md" /><br/>
     <img src="https://skillicons.dev/icons?i=git,docker,aws,selenium,anaconda,tensorflow" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,postman,github,sentry" /></div>
+    <img src="https://skillicons.dev/icons?i=vscode,postman,github,sentry" /></div><br/>
 
 
-<h3 align="center">Stats:</h3>
-<div >
+<h2 align="center">⚡ Stats ⚡</h2>
+<div align=center>
  <img width=900 height=250 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=OmkarSurve07&count_private=true&theme=react&border_radius=10" alt="streak stats"/> <br/><br/>
 </div>
